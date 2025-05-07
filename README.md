@@ -2,7 +2,7 @@
 
 👨‍💻 My expertise
 * Data Manipulation & Analysis: SQL | R | Spreadsheets (Google Sheets, Excel)
-* Data Visualization: R (ggplot2) | Tableau | PowerBI
+* Data Visualization: R (ggplot2) | Tableau | Power BI
 * Reporting & Documentation: R Markdown (rmd) | Kaggle | Google Docs | Microsoft Word
 * Presentation: Google Slides | Microsoft PowerPoint
 
