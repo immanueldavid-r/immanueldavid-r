@@ -8,4 +8,4 @@
 
 🚀 My GitHub is a place where I showcase the projects I've worked on with my analytical skills and my creativity!
 
- 💬 Connect me through [LinkedIn](https://www.linkedin.com/in/immanueldavid-r/), [Twitter](https://www.x.com/immanueldavid_r) and [Email](mailto:r.immanueldavidraj@gmail.com)!
+ 💬 Connect me through [LinkedIn](https://www.linkedin.com/in/immanueldavid-r/) and [Email](mailto:r.immanueldavidraj@gmail.com)!
